@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Custom JSON Request</string>
+
+    <string-array name="method">
+        <item>GET</item>
+        <item>POST</item>
+    </string-array>
+</resources>
